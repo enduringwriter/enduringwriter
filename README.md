@@ -49,7 +49,7 @@ Hi everyone. This is my README.md file
     &nbsp;&nbsp;
     <a href="https://www.singfighter.com" target="blank">
     <img align="center" src="https://static.wixstatic.com/media/076b99_b626ee29d9504784a7ae48ec364a4aac~mv2.png" alt="Sing Fighter" style="object-fit:scale-contain; width:42px; height:42px;"/>
-    <br>
+    <p>
 </body>
 
 
@@ -60,14 +60,14 @@ Hi everyone. This is my README.md file
 </head>
 
 <body>
-    <b align="left">
+    <p align="left">
     <a href="https://www.linkedin.com/in/keithstateson" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Keith Stateson" height="40" width="40"/>
     <a href="https://youtu.be/rBRtNWWkKtQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/youtube.png" alt="Keith Stateson" height="40" width="40"/>
     <a href="https://twitter.com/enduringwriter" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/twitter.png" alt="Keith Stateson" height="40" width="40"/>
     <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank"><img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
-    <br>
+    </p>
     <br>
 </body>
 
