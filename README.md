@@ -68,7 +68,6 @@ Hi everyone. This is my README.md file
     <img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/twitter.png" alt="Keith Stateson" height="40" width="40"/>
     <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank"><img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
     </p>
-    <br>
 </body>
 
 
