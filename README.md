@@ -1,5 +1,5 @@
 <!---
-Hi everyone. This is my README.md file
+Hi everyone. This is my README.md file for GitHub
 -->
 
 <html>
@@ -32,9 +32,8 @@ Hi everyone. This is my README.md file
 
 - 📫 Reach me at **keith.stateson@gmail.com**
 
+
 <br>
-
-
 <!--- My websites that I have designed and managed -->
 <head>
     <h3 align="left">
@@ -45,10 +44,10 @@ Hi everyone. This is my README.md file
 <body>
     <p align="left">
     <a href="https://www.enduringwriter.com" target="blank">
-    <img align="center" src="https://static.wixstatic.com/media/076b99_b08fce0a88f04c25b48afa89f780cecd~mv2.png" alt="Enduring Writer" style="object-fit:contain; width:52px; height:52px;"/>
-    &nbsp;&nbsp;
+    <img align="center" src="https://static.wixstatic.com/media/076b99_b08fce0a88f04c25b48afa89f780cecd~mv2.png" alt="Enduring Writer" style="object-fit:contain; width:50px; height:50px;"/>
+    &nbsp;
     <a href="https://www.singfighter.com" target="blank">
-    <img align="center" src="https://static.wixstatic.com/media/076b99_b626ee29d9504784a7ae48ec364a4aac~mv2.png" alt="Sing Fighter" style="object-fit:scale-contain; width:42px; height:42px;"/>
+    <img align="center" src="https://static.wixstatic.com/media/076b99_b626ee29d9504784a7ae48ec364a4aac~mv2.png" alt="Sing Fighter" style="object-fit:scale-contain; width:40px; height:40px;"/>
     <p>
 </body>
 
@@ -63,11 +62,15 @@ Hi everyone. This is my README.md file
     <p align="left">
     <a href="https://www.linkedin.com/in/keithstateson" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Keith Stateson" height="40" width="40"/>
+    &nbsp;
     <a href="https://youtu.be/rBRtNWWkKtQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/youtube.png" alt="Keith Stateson" height="40" width="40"/>
+    &nbsp;
     <a href="https://twitter.com/enduringwriter" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/twitter.png" alt="Keith Stateson" height="40" width="40"/>
+    &nbsp;
     <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank"><img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
     </p>
+    <br>
 </body>
 
 
@@ -82,9 +85,6 @@ Hi everyone. This is my README.md file
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="python" width="40" height="40"/>
-    &nbsp;
-    <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="flask" width="40" height="40"/>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
@@ -93,7 +93,7 @@ Hi everyone. This is my README.md file
     <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </p>
-    <br>
+
 
 <!--- GitHub stats -->
 <body>
