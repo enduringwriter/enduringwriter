@@ -23,7 +23,7 @@ Hi everyone. This is my README.md file for GitHub
 
 - Served in the **US Army** in logistics, public affairs, media, and chemical
 
-- Graduated with a BSc in **Chemistry** from Texas A&M Univerity
+- Graduated with a BSc in **Chemistry** from Texas A&M University
 
 - Graduated with a BSc in **Integrative Studies** (music, business, and creative writing) from University of North Texas
 
