@@ -16,7 +16,6 @@ Hi everyone. This is my README.md file for GitHub
     </h3>
 </head>
 
-
 <!--- Snapshot of Events -->
 - 🔜 DS program begins **12Dec2022!** and I am excited
 
@@ -105,7 +104,6 @@ Hi everyone. This is my README.md file for GitHub
 .gitrepo {
     padding: 0px;
     text-align: left;}
-
 </style>
 
 
