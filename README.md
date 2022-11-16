@@ -114,7 +114,7 @@ Hi everyone. This is my README.md file for GitHub
     <a href="https://github.com/enduringwriter" target ="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
     <a href="https://github.com/enduringwriter" target ="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=icons" alt="enduringwriter"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=icons" alt="enduringwriter"/>
     <a href="https://github.com/enduringwriter" target ="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
     </p>
