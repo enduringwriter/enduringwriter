@@ -3,7 +3,6 @@ Hi everyone. This is my README.md file for GitHub
 -->
 
 <html>
-
 <head>
     <h1 align="center">
     Howdy, I'm Keith Stateson <br> from Texas, USA 🇺🇸
@@ -16,6 +15,7 @@ Hi everyone. This is my README.md file for GitHub
     <br><br>
     </h3>
 </head>
+
 
 <!--- Snapshot of Events -->
 - 🔜 DS program begins **12Dec2022!** and I am excited
@@ -92,32 +92,52 @@ Hi everyone. This is my README.md file for GitHub
     <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </p>
+    <br>
+</body>
+
+
+<!--- styles for GitHub stats and repositories -->
+<style>
+.gitstat_img_1 {
+    padding: 0px;
+    text-align: left;}
+
+.gitstat_img_3 {
+    padding: 0px;
+    text-align: left;}
+
+.gitrepo {
+    padding: 0px;
+    text-align: left;}
+
+</style>
 
 
 <!--- GitHub stats -->
 <body>
-    <p align="left">
-    <a href="https://github.com/enduringwriter" target="_blank">    
-    <img alight="left" src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
-    <a href="https://github.com/enduringwriter" target ="_blank">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
-    <a href="https://github.com/enduringwriter" target ="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&show_icons=true&locale=en&layout=compact&theme=default&langs_count=10" alt="enduringwriter"/>
-    </p>
+    <div class="gitstat_img_1">
+        <a href="https://github.com/enduringwriter" target="_blank">    
+        <img src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
+    </div>
+    <div class="gitstat_img_3">
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&show_icons=true&locale=en&layout=compact&theme=default&langs_count=10" alt="enduringwriter"/>
+    </div>
+    <br>
 </body>
 
-<br><br><br><br>
 
 <!--- GitHub repositories -->
 <body>
-    <p align="left">
-    <a href="https://github.com/enduringwriter" target ="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
-    <a href="https://github.com/enduringwriter" target ="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=icons" alt="enduringwriter"/>
-    <a href="https://github.com/enduringwriter" target ="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
-    </p>
+    <div class="gitrepo">
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=icons" alt="enduringwriter"/>
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
+    </div>
 </body>
-
 </html>
