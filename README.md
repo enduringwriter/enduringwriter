@@ -98,11 +98,7 @@ Hi everyone. This is my README.md file for GitHub
 
 <!--- styles for GitHub stats and repositories -->
 <style>
-.gitstat_img_1 {
-    padding: 0px;
-    text-align: left;}
-
-.gitstat_img_3 {
+.gitstat {
     padding: 0px;
     text-align: left;}
 
@@ -115,13 +111,11 @@ Hi everyone. This is my README.md file for GitHub
 
 <!--- GitHub stats -->
 <body>
-    <div class="gitstat_img_1">
+    <div class="gitstat">
         <a href="https://github.com/enduringwriter" target="_blank">    
         <img src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
-    </div>
-    <div class="gitstat_img_3">
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&show_icons=true&locale=en&layout=compact&theme=default&langs_count=10" alt="enduringwriter"/>
     </div>
