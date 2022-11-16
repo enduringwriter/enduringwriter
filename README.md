@@ -95,21 +95,9 @@ Hi everyone. This is my README.md file for GitHub
 </body>
 
 
-<!--- styles for GitHub stats and repositories -->
-<style>
-.gitstat1{
-    padding: 0px;
-    text-align: left;}
-
-.gitrepo1{
-    padding: 0px;
-    text-align: left;}
-</style>
-
-
 <!--- GitHub stats -->
 <body>
-    <div class="gitstat1">
+    <div>
         <a href="https://github.com/enduringwriter" target="_blank">    
         <img src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
@@ -123,7 +111,7 @@ Hi everyone. This is my README.md file for GitHub
 
 <!--- GitHub repositories -->
 <body>
-    <div class="gitrepo1">
+    <div>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
