@@ -99,9 +99,8 @@ Hi everyone. This is my README.md file for GitHub
     <p align="left">
     <a href="https://github.com/enduringwriter" target="_blank">    
     <img alight="left" src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
-    
     <a href="https://github.com/enduringwriter" target ="_blank">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter&" alt="enduringwriter"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
     <a href="https://github.com/enduringwriter" target ="_blank">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&show_icons=true&locale=en&layout=compact&theme=default&langs_count=10" alt="enduringwriter"/>
     </p>
