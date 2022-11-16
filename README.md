@@ -97,8 +97,9 @@ Hi everyone. This is my README.md file for GitHub
 <!--- GitHub stats -->
 <body>
     <p align="left">
-    <a href="https://github.com/enduringwriter" target="_blank">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=enduringwriter&show_icons=true&locale=en&theme=default" alt="enduringwriter"/>
+    <a href="https://github.com/enduringwriter" target="_blank">    
+    <img alight="left" src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
+    
     <a href="https://github.com/enduringwriter" target ="_blank">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter&" alt="enduringwriter"/>
     <a href="https://github.com/enduringwriter" target ="_blank">
@@ -108,6 +109,7 @@ Hi everyone. This is my README.md file for GitHub
 
 <br><br><br><br>
 
+<!--- GitHub repositories -->
 <body>
     <p align="left">
     <a href="https://github.com/enduringwriter" target ="_blank">
