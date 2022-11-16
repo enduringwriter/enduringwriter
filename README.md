@@ -100,7 +100,6 @@ Hi everyone. This is my README.md file for GitHub
 .gitstat {
     padding: 0px;
     text-align: left;}
-
 .gitrepo {
     padding: 0px;
     text-align: left;}
