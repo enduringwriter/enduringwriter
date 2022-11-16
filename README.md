@@ -97,11 +97,11 @@ Hi everyone. This is my README.md file for GitHub
 
 <!--- styles for GitHub stats and repositories -->
 <style>
-.gitstat1 {
+.gitstat1{
     padding: 0px;
     text-align: left;}
 
-.gitrepo1 {
+.gitrepo1{
     padding: 0px;
     text-align: left;}
 </style>
