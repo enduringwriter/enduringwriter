@@ -17,7 +17,7 @@ Hi everyone. This is my README.md file for GitHub
 </head>
 
 <!--- Snapshot of Events -->
-- 🔜 DS program begins **12Dec2022!** and I am excited
+- 🔜 DS program begins **17Jan2023!** and I am excited
 
 - I look forward to meeting fellow classmates to collaborate on projects
 
