@@ -1,5 +1,6 @@
 <!---
-Hi everyone. This is my README.md file for GitHub
+Hi everyone.
+This is README.md file is my GitHub profile
 -->
 
 <html>
@@ -27,13 +28,13 @@ Hi everyone. This is my README.md file for GitHub
 
 - Graduated with a BSc in **Integrative Studies** (music, business, and creative writing) from University of North Texas
 
-- Want to chat? **$1** for questions, **$1** for answers. No rounding and no IOUs!
+- Want to chat? **$1** for questions, **$1** for answers. No rounding, no infinite limits, and no IOUs!
 
 - 📫 Reach me at **keith.stateson@gmail.com**
 
-
 <br>
-<!--- My websites that I have designed and managed -->
+
+<!--- My Websites -->
 <head>
     <h3 align="left">
     My Websites:
@@ -51,7 +52,7 @@ Hi everyone. This is my README.md file for GitHub
 </body>
 
 
-<!--- Social networks that I use or plan on using -->
+<!--- Social Networks -->
 <head>
     <h3 align="left">
     Connect with me:</h3>
@@ -72,7 +73,7 @@ Hi everyone. This is my README.md file for GitHub
 </body>
 
 
-<!--- Technical skills -->
+<!--- Technical Skills -->
 <head>
     <h3 align="left">Languages and Tools:</h3>
 </head>
@@ -95,7 +96,7 @@ Hi everyone. This is my README.md file for GitHub
 </body>
 
 
-<!--- GitHub stats -->
+<!--- GitHub Stats -->
 <body>
     <div>
         <a href="https://github.com/enduringwriter" target="_blank">    
@@ -109,7 +110,7 @@ Hi everyone. This is my README.md file for GitHub
 </body>
 
 
-<!--- GitHub repositories -->
+<!--- GitHub Repositories -->
 <body>
     <div>
         <a href="https://github.com/enduringwriter" target ="_blank">
