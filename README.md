@@ -63,12 +63,12 @@ This is README.md file is my GitHub profile
     <a href="https://www.linkedin.com/in/keithstateson" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Keith Stateson" height="40" width="40"/>
     &nbsp;
-    <a href="https://youtu.be/rBRtNWWkKtQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/youtube.png" alt="Keith Stateson" height="40" width="40"/>
+    <a href="https://youtu.be/rBRtNWWkKtQ" target="blank"><img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/youtube.png" alt="Keith Stateson" height="40" width="40"/>
     &nbsp;
     <a href="https://twitter.com/enduringwriter" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/twitter.png" alt="Keith Stateson" height="40" width="40"/>
+    <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/twitter.png" alt="Keith Stateson" height="40" width="40"/>
     &nbsp;
-    <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank"><img align="center" src="https://raw.githubusercontent.com/enduringwriter/icons/main/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
+    <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank"><img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
     </p>
 </body>
 
