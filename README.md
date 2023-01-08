@@ -108,6 +108,8 @@ This is README.md file is my GitHub profile
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&show_icons=true&locale=en&layout=compact&theme=default&langs_count=10" alt="enduringwriter"/>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&layout=compact)]
+
     </div>
     <br>
 </body>
