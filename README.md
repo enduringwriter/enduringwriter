@@ -119,8 +119,6 @@ This is README.md file is my GitHub profile
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=icons" alt="enduringwriter"/>
-        <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
     </div>
 </body>
