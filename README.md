@@ -87,7 +87,7 @@ This is README.md file is my GitHub profile
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="flask" width="40" height="40"/>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
-    <img src="https://github.com/enduringwriter/icons/blob/0af0cc3814fede1fe651ad13dc28de304245c18c/pycharm.svg" alt="flask" width="40" height="40"/>
+    <img src="https://github.com/enduringwriter/enduringwriter/blob/72d71cadb55aebbce379194436b750f80b414d58/icons_for_my_github_profile/pycharm.svg" alt="flask" width="40" height="40"/>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
