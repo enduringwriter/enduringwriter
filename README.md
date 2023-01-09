@@ -102,25 +102,19 @@ This README.md file is my GitHub profile
 <a href="https://github.com/enduringwriter" target ="_blank">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter&amp;" style="max-width: 100%;">
 </p>
-    
-<p>
-<a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&amp;" style="max-width: 100%;">
-</p>
-<p>
-<a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter"/>
-</p>
 
-<!--- GitHub Stats -->
+<!--- GitHub Stats Streak Languages -->
 <body>
     <div>
         <a href="https://github.com/enduringwriter" target="_blank">    
         <img src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
+        <a href="https://github.com/enduringwriter" target ="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&amp;" style="max-width: 100%;">
     </div>
     <br>
 </body>
-
 
 <!--- GitHub Repositories -->
 <body>
