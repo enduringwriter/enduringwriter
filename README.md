@@ -108,10 +108,7 @@ This README.md file is my GitHub profile
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/872a84a9fd15283303e4f544f4b0ab47a89ba9970494c9582965c1a15985c083/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6465616e67656c6f626f77656e312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374">
-<img align="left" src="https://camo.githubusercontent.com/872a84a9fd15283303e4f544f4b0ab47a89ba9970494c9582965c1a15985c083/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6465616e67656c6f626f77656e312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt=“enduringwriter” data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
-            
-            
-            
+        <img src="https://camo.githubusercontent.com/872a84a9fd15283303e4f544f4b0ab47a89ba9970494c9582965c1a15985c083/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6465616e67656c6f626f77656e312673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt=“enduringwriter” data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
     </div>
     <br>
 </body>
