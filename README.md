@@ -100,7 +100,7 @@ This README.md file is my GitHub profile
 
 <p>
 <a target="_blank" rel="noopener noreferrer nofollow" href=“https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter &layout=compact”>
-        <img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter &layout=compact” data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+        <img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter &layout=compact” data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a>
 </p>
 
 <!--- GitHub Stats -->
