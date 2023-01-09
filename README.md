@@ -98,8 +98,8 @@ This README.md file is my GitHub profile
     <br>
 </body>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter) (https://github.com/enduringwriter/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter) (https://github.com/enduringwriter/github-readme-stats)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&layout=compact)](https://github.com/enduringwriter/github-readme-stats)
 
 <!--- GitHub Stats -->
