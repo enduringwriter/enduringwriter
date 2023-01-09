@@ -99,7 +99,7 @@ This README.md file is my GitHub profile
 </body>
 
 <p>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter &layout=compact/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter &layout=compact"/>
 </p>
 
 <!--- GitHub Stats -->
