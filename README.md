@@ -99,7 +99,7 @@ This README.md file is my GitHub profile
 </body>
 
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter)](https://github.com/enduringwriter/github-readme-stats)
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter &layout=compact/>
 </p>
 
 <!--- GitHub Stats -->
