@@ -110,7 +110,6 @@ This README.md file is my GitHub profile
         <img src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
-        <a href="https://github.com/enduringwriter" target ="_blank">
     </div>
     <br>
 </body>
