@@ -98,7 +98,7 @@ This README.md file is my GitHub profile
     <br>
 </body>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter)
 
 <!--- GitHub Stats -->
 <body>
