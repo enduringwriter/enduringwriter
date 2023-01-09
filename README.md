@@ -98,11 +98,6 @@ This README.md file is my GitHub profile
     <br>
 </body>
 
-<p>
-<a href="https://github.com/enduringwriter" target ="_blank">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter&amp;" style="max-width: 100%;">
-</p>
-
 <!--- GitHub Stats Streak Languages -->
 <body>
     <div>
