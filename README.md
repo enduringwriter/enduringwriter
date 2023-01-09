@@ -100,6 +100,11 @@ This README.md file is my GitHub profile
 
 <p>
 <a href="https://github.com/enduringwriter" target ="_blank">
+<img src=“https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter” alt=“enduringwriter” data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter&amp;" style="max-width: 100%;">
+</p>
+
+<p>
+<a href="https://github.com/enduringwriter" target ="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=enduringwriter” alt="enduringwriter" show_icons=true&amp;locale=en” style=“max-width: 100%”/>
 </a>
 </p>
