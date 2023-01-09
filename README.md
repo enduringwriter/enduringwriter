@@ -98,6 +98,7 @@ This README.md file is my GitHub profile
     <br>
 </body>
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&theme=blue-green)
 
 <!--- GitHub Stats -->
 <body>
@@ -109,7 +110,7 @@ This README.md file is my GitHub profile
         <a href="https://github.com/enduringwriter" target ="_blank">
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter) (https://github.com/enduringwriter/github-readme-stats)
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&layout=compact)](https://github.com/enduringwriter/github-readme-stats)
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://enduringwriter.githubusercontent.com">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="[https://enduringwriter.githubusercontent.com](https://github.com/enduringwriter)](https://camo.githubusercontent.com/enduringwriter)">
         <img src="https://enduringwriter.githubusercontent.com" alt=“enduringwriter” data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
     </div>
     <br>
