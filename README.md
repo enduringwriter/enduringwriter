@@ -111,8 +111,6 @@ This README.md file is my GitHub profile
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
         <a href="https://github.com/enduringwriter" target ="_blank">
-        <a target="_blank" rel="noopener noreferrer nofollow" href=“https://camo.githubusercontent.com/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656e647572696e67777269746572”>
-        <img src=“https://camo.githubusercontent.com/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656e647572696e67777269746572” alt=“enduringwriter” data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=enduringwriter&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
     </div>
     <br>
 </body>
