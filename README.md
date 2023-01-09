@@ -104,7 +104,7 @@ This README.md file is my GitHub profile
 </p>
     
 <p>
-<a href="https://github.com/enduringwriter" target ="_blank"><img src=“https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter” alt=“enduringwriter” data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&amp;" style="max-width: 100%;">
+<a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&amp;" style="max-width: 100%;">
 </p>
 
 <!--- GitHub Stats -->
