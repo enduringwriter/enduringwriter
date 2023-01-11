@@ -95,7 +95,7 @@ This README.md file is my GitHub profile
     </a>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
-    <img src="https://github.com/enduringwriter/enduringwriter/blob/72d71cadb55aebbce379194436b750f80b414d58/icons_for_my_github_profile/pycharm.svg" alt="flask" width="40" height="40"/>
+    <img src="https://github.com/enduringwriter/enduringwriter/icons_for_my_github_profile/pycharm.svg" alt="flask" width="40" height="40"/>
     </a>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
