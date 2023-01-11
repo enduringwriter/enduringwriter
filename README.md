@@ -3,18 +3,22 @@ Hi everyone.
 This README.md file is my GitHub profile
 -->
 
+
+<!--- Title and metadata -->
 <html>
 <head>
-    <h1 align="center">
-    Howdy, I'm Keith Stateson <br> from Texas, USA 🇺🇸
-    </h1>
     <meta charset="UTF-8">
     <meta name="description" content="GitHub, Profile, README.MD">
-    <meta name="keywords" content="GitHub, Profile, Bio, Snapshot, Readme">
+    <meta name="keywords" content="GitHub, Profile, Bio, Snapshot, Summary, Readme">
     <meta name="author" content="Keith Stateson, Enduring Writer, Sing Fighter">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1 align="center">
+        Howdy, I'm Keith Stateson <br> from Texas, USA 🇺🇸
+    </h1>
 </head>
 
+
+<!--- Subtitle -->
 <head>
     <h3 align="center">
         Aspiring Data Scientist Student @CodeUp
@@ -22,6 +26,7 @@ This README.md file is my GitHub profile
     </h3>
     
 </head>
+
 
 <!--- Snapshot of Events -->
 - 🔜 DS program begins **17Jan2023!** and I am excited
@@ -31,6 +36,7 @@ This README.md file is my GitHub profile
 - Graduated with a B.Sc. in **Integrative Studies** from University of North Texas
 - Want to chat? **$1** for questions, **$1** for answers. No rounding, no infinite limits, and no IOUs!
 - 📫 Reach me at **keith.stateson@gmail.com**
+
 
 <!--- My Websites -->
 <head>
@@ -108,6 +114,7 @@ This README.md file is my GitHub profile
     <br>
 </body>
 
+
 <!--- GitHub Stats Streak Languages -->
 <body>
     <div>
@@ -123,6 +130,7 @@ This README.md file is my GitHub profile
     </div>
     <br>
 </body>
+
 
 <!--- GitHub Repositories -->
 <body>
