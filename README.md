@@ -18,8 +18,9 @@ This README.md file is my GitHub profile
 <head>
     <h3 align="center">
         Aspiring Data Scientist Student @CodeUp
-    </h3>
     <br><br>
+    </h3>
+    
 </head>
 
 <!--- Snapshot of Events -->
