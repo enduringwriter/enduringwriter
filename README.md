@@ -31,7 +31,6 @@ This README.md file is my GitHub profile
 - Graduated with a B.Sc. in **Integrative Studies** from University of North Texas
 - Want to chat? **$1** for questions, **$1** for answers. No rounding, no infinite limits, and no IOUs!
 - 📫 Reach me at **keith.stateson@gmail.com**
-<br>
 
 <!--- My Websites -->
 <head>
