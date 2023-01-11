@@ -52,7 +52,7 @@ This README.md file is my GitHub profile
 </body>
 
 
-<!--- Social Networks -->
+<!--- Social Networks - Connect with me -->
 <head>
     <h3 align="left">Connect with me:</h3>
 </head>
@@ -78,7 +78,7 @@ This README.md file is my GitHub profile
 </body>
 
 
-<!--- Technical Skills -->
+<!--- Technical Skills - Languages and Tools -->
 <head>
     <h3 align="left">Languages and Tools:</h3>
 </head>
