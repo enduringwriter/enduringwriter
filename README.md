@@ -8,6 +8,11 @@ This README.md file is my GitHub profile
     <h1 align="center">
     Howdy, I'm Keith Stateson <br> from Texas, USA 🇺🇸
     </h1>
+    <meta charset="UTF-8">
+    <meta name="description" content="GitHub, Profile, README.MD">
+    <meta name="keywords" content="GitHub, Profile, Bio, Snapshot, Readme">
+    <meta name="author" content="Keith Stateson, Enduring Writer, Sing Fighter">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <head>
@@ -19,19 +24,12 @@ This README.md file is my GitHub profile
 
 <!--- Snapshot of Events -->
 - 🔜 DS program begins **17Jan2023!** and I am excited
-
-- I look forward to meeting fellow classmates to collaborate on projects
-
+- I look forward to meeting classmates and collaborating on projects
 - Served in the **US Army** in logistics, public affairs, media, and chemical
-
-- Graduated with a BSc in **Chemistry** from Texas A&M University
-
-- Graduated with a BSc in **Integrative Studies** (music, business, and creative writing) from University of North Texas
-
+- Graduated with a B.Sc. in **Chemistry** from Texas A&M University
+- Graduated with a B.Sc. in **Integrative Studies** from University of North Texas
 - Want to chat? **$1** for questions, **$1** for answers. No rounding, no infinite limits, and no IOUs!
-
 - 📫 Reach me at **keith.stateson@gmail.com**
-
 <br>
 
 <!--- My Websites -->
@@ -45,10 +43,12 @@ This README.md file is my GitHub profile
     <p align="left">
     <a href="https://www.enduringwriter.com" target="blank">
     <img align="center" src="https://static.wixstatic.com/media/076b99_b08fce0a88f04c25b48afa89f780cecd~mv2.png" alt="Enduring Writer" style="object-fit:contain; width:50px; height:50px;"/>
+    </a>
     &nbsp;
     <a href="https://www.singfighter.com" target="blank">
     <img align="center" src="https://static.wixstatic.com/media/076b99_b626ee29d9504784a7ae48ec364a4aac~mv2.png" alt="Sing Fighter" style="object-fit:scale-contain; width:40px; height:40px;"/>
-    <p>
+    </a>
+    </p>
 </body>
 
 
@@ -62,13 +62,19 @@ This README.md file is my GitHub profile
     <p align="left">
     <a href="https://www.linkedin.com/in/keithstateson" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Keith Stateson" height="40" width="40"/>
+    </a>
     &nbsp;
-    <a href="https://youtu.be/rBRtNWWkKtQ" target="blank"><img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/youtube.png" alt="Keith Stateson" height="40" width="40"/>
+    <a href="https://youtu.be/rBRtNWWkKtQ" target="blank">
+    <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/youtube.png" alt="Keith Stateson" height="40" width="40"/>
+    </a>
     &nbsp;
     <a href="https://twitter.com/enduringwriter" target="blank">
     <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/twitter.png" alt="Keith Stateson" height="40" width="40"/>
+    </a>
     &nbsp;
-    <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank"><img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
+    <a href="https://stackoverflow.com/users/20429461/enduringwriter" target="blank">
+    <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
+    </a>
     </p>
 </body>
 
@@ -82,18 +88,23 @@ This README.md file is my GitHub profile
     <p align="left">
     <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="flask" width="40" height="40"/>
+    </a>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://github.com/enduringwriter/enduringwriter/blob/72d71cadb55aebbce379194436b750f80b414d58/icons_for_my_github_profile/pycharm.svg" alt="flask" width="40" height="40"/>
+    </a>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
     &nbsp;
     <a href="https://github.com/enduringwriter" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    </a>
     </p>
     <br>
 </body>
@@ -103,10 +114,13 @@ This README.md file is my GitHub profile
     <div>
         <a href="https://github.com/enduringwriter" target="_blank">    
         <img src="https://github-readme-stats.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
+        </a>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
+        </a>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&amp;" style="max-width: 100%;">
+        </a>
     </div>
     <br>
 </body>
@@ -116,8 +130,10 @@ This README.md file is my GitHub profile
     <div>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
+        </a>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
+        </a>
     </div>
 </body>
 </html>
