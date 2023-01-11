@@ -6,7 +6,7 @@ This README.md file is my GitHub profile
 <html>
 <head>
     <h1 align="center">
-        Howdy, I'm Keith Stateson <br> from Texas, USA 🇺🇸
+    Howdy, I'm Keith Stateson <br> from Texas, USA 🇺🇸
     </h1>
     <meta charset="UTF-8">
     <meta name="description" content="GitHub, Profile, README.MD">
