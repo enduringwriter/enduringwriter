@@ -150,7 +150,7 @@ This README.md file is my GitHub profile
 
 
 <!--- GitHub Trophies -->
-<a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-profile-trophy.vercel.app/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-profile-trophy.vercel.app/?username=enduringwriter&column=-1" style="max-width: 100%;">
+<a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-profile-trophy.vercel.app/?username=enduringwriter&column=-1;" alt="enduringwriter" data-canonical-src="https://github-profile-trophy.vercel.app/?username=enduringwriter&column=-1;" style="max-width: 100%;">
 </a>
 
 
