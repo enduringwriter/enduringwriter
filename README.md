@@ -29,7 +29,7 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- 🔜 DS program begins **17Jan2023!** and I am excited
+- Data Science program begins **17Jan2023!** and I am excited
 - I look forward to meeting classmates and collaborating on projects
 - Served in the **US Army** in logistics, public affairs, media, and chemical
 - Graduated with a B.Sc. in **Chemistry** from Texas A&M University
@@ -131,6 +131,7 @@ This README.md file is my GitHub profile
     <br>
 </body>
 
+<a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-profile-trophy.vercel.app/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-profile-trophy.vercel.app/?username=enduringwriter" style="max-width: 100%;”></a>
 
 <!--- GitHub Repositories -->
 <body>
