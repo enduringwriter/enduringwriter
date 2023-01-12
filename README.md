@@ -151,10 +151,9 @@ This README.md file is my GitHub profile
 [![trophy](https://github-profile-trophy.vercel.app/?username=enduringwriter)](https://github.com/enduringwriter/github-profile-trophy)
 -->
 
-<p>
 <a href="https://github.com/enduringwriter" target ="_blank">
-<img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=enduringwriter" style="max-width: 100%;”>
+<img src="https://github-profile-trophy.vercel.app/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-profile-trophy.vercel.app/?username=enduringwriter" style="max-width: 100%;”>
 </a>
-</p>
+
 
 </html>
