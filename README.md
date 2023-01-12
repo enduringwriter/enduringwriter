@@ -131,7 +131,6 @@ This README.md file is my GitHub profile
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter&layout=compact;" style="max-width: 100%;">
         </a>
     </div>
-    <br>
 </body>
 
 
@@ -147,10 +146,8 @@ This README.md file is my GitHub profile
     </div>
 </body>
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=enduringwriter)](https://github.com/enduringwriter/github-profile-trophy)
--->
 
+<!--- GitHub Trophies -->
 <a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-profile-trophy.vercel.app/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-profile-trophy.vercel.app/?username=enduringwriter" style="max-width: 100%;">
 </a>
 
