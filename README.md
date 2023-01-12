@@ -148,7 +148,7 @@ This README.md file is my GitHub profile
 
 
 <!--- GitHub Trophies -->
-<a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-profile-trophy.vercel.app/?username=enduringwriter&row=2&column=3" alt="enduringwriter" data-canonical-src="https://github-profile-trophy.vercel.app/?username=enduringwriter" style="max-width: 100%;">
+<a href="https://github.com/enduringwriter" target ="_blank"><img src="https://github-profile-trophy.vercel.app/?username=enduringwriter&row=2&column=3&margin-w=2" alt="enduringwriter" data-canonical-src="https://github-profile-trophy.vercel.app/?username=enduringwriter" style="max-width: 100%;">
 </a>
 
 
