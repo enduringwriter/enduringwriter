@@ -124,6 +124,9 @@ This README.md file is my GitHub profile
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
         </a>
+        <a>
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+        </a>
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&layout=compact;" style="max-width: 100%;">
         </a>
