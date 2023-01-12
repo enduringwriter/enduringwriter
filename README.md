@@ -114,7 +114,9 @@ This README.md file is my GitHub profile
     <br>
 </body>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enduringwriter&hide=contribs,prs)
+<a href="https://github.com/enduringwriter" target="_blank">    
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
+</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&layout=compact)](https://github.com/enduringwriter/github-readme-stats)
 
 <!--- GitHub Stats Streak Languages -->
