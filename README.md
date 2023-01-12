@@ -125,7 +125,7 @@ This README.md file is my GitHub profile
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
         </a>
         <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter;" layout="compact" style="max-width: 100%;">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter&layout=compact;" style="max-width: 100%;">
         </a>
     </div>
     <br>
