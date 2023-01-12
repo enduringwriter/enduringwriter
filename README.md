@@ -136,10 +136,10 @@ This README.md file is my GitHub profile
 <body>
     <div>
         <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=fun_projects" alt="enduringwriter"/>
         </a>
         <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=enduringwriter&repo=enduringwriter" alt="enduringwriter"/>
         </a>
     </div>
 </body>
