@@ -127,6 +127,7 @@ This README.md file is my GitHub profile
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&layout=compact;" style="max-width: 100%;">
         </a>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enduringwriter&layout=compact)](https://github.com/enduringwriter/github-readme-stats)
     </div>
     <br>
 </body>
