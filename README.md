@@ -148,8 +148,7 @@ This README.md file is my GitHub profile
 
 
 <!--- GitHub Trophies -->
-<a href="https://github.com/enduringwriter" target ="_blank">
-[![trophy](https://github-profile-trophy.vercel.app/?username=enduringwriter)](https://github.com/enduringwriter/github-profile-trophy)
+<a href="https://github.com/enduringwriter" target ="_blank"[![trophy](https://github-profile-trophy.vercel.app/?username=enduringwriter)](https://github.com/enduringwriter/github-profile-trophy)
 </a>
 
 </html>
