@@ -24,7 +24,7 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-        Aspiring Data Science Student @CodeUp
+        Aspiring Data Scientist Student at Codeup
     <br><br>
     </h3>
     
