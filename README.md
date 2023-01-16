@@ -33,7 +33,7 @@ This README.md file is my GitHub profile
 
 <!--- Snapshot of Events -->
 - Data Science program begins 17Jan2023! and I am excited to begin collaborating on projects
-- Served in the **US Army** in logistics, public affairs, media, and chemical
+- Served in the **U.S. Army** in logistics, public affairs, media, and chemical
 - Graduated with a B.Sc. in **Chemistry** from Texas A&M University
 - Graduated with a B.Sc. in **Integrative Studies** from University of North Texas
 - 📫 Reach me at **keith.stateson@gmail.com**
