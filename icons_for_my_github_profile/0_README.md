@@ -23,7 +23,7 @@
     <p align="left">
         Enduring Writer and Sing Fighter icons are trademarks from Keith Stateson.
         <br><br>
-        LinkedIn, Pycharm, and Visual Studio Code icons were downloaded from their respective company website. The other icons are from GitHub Tabler or directly from the company's website.
+        LinkedIn, Pycharm, Visual Studio Code, and Photoshop icons were downloaded from their respective company website. The other icons are from GitHub Tabler or directly from the company's website.
         <br><br>
         Some icons in this "icons" folder have been edited using Adobe iOS software.
         <br><br>
