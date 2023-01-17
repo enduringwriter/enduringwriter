@@ -109,7 +109,7 @@ This README.md file is my GitHub profile
         </a>
         &nbsp;
         <a href="https://github.com/enduringwriter" target="_blank">
-        <img src="https://github.com/enduringwriter/enduringwriter/blob/42b7e972890422767c678b2bf4f5e13a0e05d099/icons_for_my_github_profile/photoshop.svg" alt="photoshop" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
         </a>
     </p>
     <br>
