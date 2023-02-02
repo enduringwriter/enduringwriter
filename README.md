@@ -24,7 +24,7 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-        Aspiring Data Scientist Student at Codeup
+        Aspiring Data Scientist
     <br><br>
     </h3>
     
@@ -32,7 +32,7 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Artist and writer of children's literature and music, and Business Specialist
+- Data Science program just began on 17Jan2023! and am ready to begin collaborating on projects
 - Served in the **U.S. Army** in logistics, public affairs, media, and chemical
 - Graduated with a B.Sc. in **Chemistry** from Texas A&M University
 - Graduated with a B.Sc. in **Integrative Studies** from University of North Texas
@@ -102,6 +102,10 @@ This README.md file is my GitHub profile
         &nbsp;
         <a href="https://github.com/enduringwriter" target="_blank">
         <img src="https://github.com/enduringwriter/enduringwriter/blob/6594379f38e3d47cb673324bd1d851cc91f6799a/icons_for_my_github_profile/pycharm.svg" alt="flask" width="40" height="40"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/enduringwriter" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
         </a>
         &nbsp;
         <a href="https://github.com/enduringwriter" target="_blank">
