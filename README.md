@@ -24,7 +24,7 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-        Business Specialist
+        Analyst
     <br><br>
     </h3>
     
@@ -32,6 +32,7 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
+- A creative Analyst and Army Veteran with a diverse background in technology, chemistry, logistics, automation, programming, market research and analysis, entrepreneurship, music, and storytelling
 - Artist and writer of children's literature and music
 - Served in the **U.S. Army** in logistics, public affairs, media, and chemical
 - Graduated with a B.Sc. in **Chemistry** from Texas A&M University
@@ -59,7 +60,7 @@ This README.md file is my GitHub profile
 </body>
 
 
-<!--- Social Networks - Connect with me -->
+<!--- Social Networks -->
 <head>
     <h3 align="left">Connect with me:</h3>
 </head>
@@ -85,7 +86,7 @@ This README.md file is my GitHub profile
 </body>
 
 
-<!--- Technical Skills - Languages and Tools -->
+<!--- Technical Skills -->
 <head>
     <h3 align="left">Languages and Tools:</h3>
 </head>
@@ -115,14 +116,17 @@ This README.md file is my GitHub profile
 <!--- GitHub Stats Streak Languages -->
 <body>
     <div>
+        <!--- GitHub Stats --->
         <a href="https://github.com/enduringwriter" target="_blank">    
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enduringwriter" alt="enduringwriter"/>
         </a>
+        <!--- GitHub Contributions and Streaks --->
         <a href="https://github.com/enduringwriter" target ="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=enduringwriter" alt="enduringwriter"/>
         </a>
+        <!--- GitHub Most Used Languages --->
         <a href="https://github.com/enduringwriter" target ="_blank">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter&layout=compact" alt="enduringwriter" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" style="max-width: 100%;">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" alt="enduringwriter" data-canonical-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enduringwriter" style="max-width: 100%;">
         </a>
     </div>
     <br>
