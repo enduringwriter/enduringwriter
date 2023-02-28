@@ -33,10 +33,12 @@ This README.md file is my GitHub profile
 
 <!--- Snapshot of Events -->
 - A creative Analyst and Army Veteran with a diverse background in technology, chemistry, logistics, automation, programming, market research and analysis, entrepreneurship, music, and storytelling
-- Artist and writer of children's literature and music
+- Artist and writer of literature and music, with a speciality in children's works of art
 - Served in the **U.S. Army** in logistics, public affairs, media, and chemical
-- Graduated with a B.Sc. in **Chemistry** from Texas A&M University
-- Graduated with a B.Sc. in **Integrative Studies** from University of North Texas
+- Served in the **Texas Army National Guard**
+- B.Sc. in **Chemistry** from Texas A&M University
+- B.Sc. in **Integrative Studies** from University of North Texas
+- Data Science boot camp at Codeup
 - 📫 Reach me at **keith.stateson@gmail.com**
 
 
