@@ -16,7 +16,7 @@ This README.md file is my GitHub profile
     <meta name="author" content="Keith Stateson, Enduring Writer, Sing Fighter">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1 align="center">
-        Keith Stateson <br> hometown - Texas, USA 🇺🇸
+        Keith Stateson
     </h1>
 </head>
 
@@ -25,7 +25,7 @@ This README.md file is my GitHub profile
 <head>
     <h3 align="center">
         Data Analyst @ USDA <br>
-        San Francisco, CA
+        San Francisco, CA 🇺🇸
     <br><br>
     </h3>
     
@@ -33,7 +33,7 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- A creative Analyst and Army Veteran with a diverse background in technology, chemistry, logistics, automation, programming, market research and analysis, entrepreneurship, music, and storytelling
+- A creative Data Analyst and Army Veteran with unique experiences in technology, chemistry, logistics, automation, coding, storytelling, music, and market research
 - Artist and writer of literature and music, with a speciality in children's works of art
 - Served in the **U.S. Army** in logistics, public affairs, media, and chemical
 - Served in the **Texas Army National Guard**
