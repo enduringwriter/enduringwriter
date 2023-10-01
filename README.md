@@ -16,7 +16,7 @@ This README.md file is my GitHub profile
     <meta name="author" content="Keith Stateson, Enduring Writer, Sing Fighter">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1 align="center">
-        Howdy, I'm Keith Stateson <br> from Texas, USA 🇺🇸
+        Keith Stateson <br> hometown - Texas, USA 🇺🇸
     </h1>
 </head>
 
@@ -24,7 +24,8 @@ This README.md file is my GitHub profile
 <!--- Subtitle -->
 <head>
     <h3 align="center">
-        Data Analyst
+        Data Analyst @ USDA <br>
+        San Francisco, CA
     <br><br>
     </h3>
     
