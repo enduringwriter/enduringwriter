@@ -23,11 +23,11 @@ This README.md file is my GitHub profile
 
 <!--- Subtitle -->
 <head>
-    <h3 align="center">
+    <h2 align="center">
         Data Analyst @ USDA <br>
         San Francisco, CA 🇺🇸
     <br><br>
-    </h3>
+    </h2>
     
 </head>
 
