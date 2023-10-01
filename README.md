@@ -25,7 +25,7 @@ This README.md file is my GitHub profile
 <head>
     <h2 align="center">
         Data Analyst @ USDA <br>
-        San Francisco, CA 🇺🇸
+        San Francisco, CA
     <br><br>
     </h2>
     
