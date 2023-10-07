@@ -20,7 +20,6 @@ This README.md file is my GitHub profile
     </h1>
 </head>
 
-@USDA
 
 <!--- Subtitle -->
 <head>
