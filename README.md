@@ -35,8 +35,6 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- A creative Data Analyst and Army Veteran with unique experiences in technology, chemistry, logistics, automation, coding, storytelling, music, and market research
-- Artist and writer of literature and music, with a speciality in children's works of art
 - Served in the **U.S. Army** in logistics, public affairs, media, and chemical
 - Served in the **Texas Army National Guard**
 - B.Sc. in **Chemistry** from Texas A&M University
