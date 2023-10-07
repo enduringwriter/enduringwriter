@@ -15,11 +15,12 @@ This README.md file is my GitHub profile
     <meta name="keywords" content="GitHub, Profile, Bio, Snapshot, Summary, Readme">
     <meta name="author" content="Keith Stateson, Enduring Writer, Sing Fighter">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1 align="center">
-        Keith Stateson
-    </h1>
 </head>
 
+<!--- Title and metadata -->
+<h1 align="center">
+    Keith Stateson
+</h1>
 
 <!--- Subtitle -->
 <head>
