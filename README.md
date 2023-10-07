@@ -7,7 +7,7 @@ This README.md file is my GitHub profile
 -->
 
 
-<!--- Title and metadata -->
+<!--- Metadata -->
 <html>
 <head>
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@ This README.md file is my GitHub profile
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<!--- Title and metadata -->
+<!--- Title -->
 <h1 align="center">
     Keith Stateson
 </h1>
@@ -42,7 +42,7 @@ This README.md file is my GitHub profile
 - B.Sc. in **Chemistry** from Texas A&M University
 - B.Sc. in **Integrative Studies** from University of North Texas
 - Data Science at Codeup
-- 📫 Reach me at **keith.stateson@gmail.com**
+- **keith.stateson@gmail.com**
 
 
 <!--- My Websites -->
