@@ -39,7 +39,6 @@ This README.md file is my GitHub profile
 - Served in the **Texas Army National Guard**
 - B.Sc. in **Chemistry** from Texas A&M University
 - B.Sc. in **Integrative Studies** from University of North Texas
-- **Data Science** at Codeup
 
 
 <!--- My Websites -->
